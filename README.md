@@ -20,7 +20,7 @@ tensorboard --logdir=log
 # data benchmark
 Here we put all the Mnist and Mnist-M data in this repo. Just download the whole repo and run. 
 
-All the six data benchmarks we collected and preprocessed will be released soon.
+All the six data benchmarks we collected and preprocessed can be found in https://github.com/ubcsip/research-datasets.
 
 # Environment
 
